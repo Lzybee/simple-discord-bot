@@ -1,7 +1,9 @@
 Way To Use :
 
 -You need download node.js (https://nodejs.org/dist/v14.15.5/node-v14.15.5-x64.msi)
+
 -in terminal type npm i discord.js
+
 -After that make new file javascript and copy paste the code 
 
 Important!
