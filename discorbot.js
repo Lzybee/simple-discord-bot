@@ -27,5 +27,5 @@ client.on("messageCreate", async message => {
     }
 });
 
-
+//You can update the command according to you
 client.login('Your Bot Token');
